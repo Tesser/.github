@@ -1,7 +1,7 @@
 # Welcome to Tesser 👋
 
 <div align="center">
-  <img src="../images/Tesser_Logo.png">
+  <img src="https://github.com/Tesser/.github/blob/main/images/Tesser_Logo.png">
 </div>
 
 <div align="center">
